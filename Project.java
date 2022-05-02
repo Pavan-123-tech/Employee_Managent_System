@@ -1,5 +1,5 @@
 /* Employee Managment System */
-// Developed By Pawan Raut
+// Developed By Pawan Rameshwar Raut
 
 
 import javax.swing.*;
