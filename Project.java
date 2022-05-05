@@ -1,5 +1,5 @@
 /* Employee Managment System */
-// Developed By Pawan Rameshwar Raut
+//Developed By Pawan Rameshwar Raut
 
 
 import javax.swing.*;
@@ -597,7 +597,7 @@ class Project
 }
 
 /* 
-Create this table  in the Oracle:
+Create this table  in the Oracle or sql Database:
 
 create table employee
 (
