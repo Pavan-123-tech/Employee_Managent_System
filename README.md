@@ -1,2 +1,2 @@
-# Employee_Managent_System
-In this project i have create  employee managment system. ..
+# Employee_Management_System
+Employee management system using core java and swing. ..
